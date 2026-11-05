@@ -11,8 +11,8 @@ Currently completing an **MSc in Computer Science** at Mälardalen University, S
   [Frontend](https://github.com/arben-djokovic/Radnik-App) · [Backend API](https://github.com/arben-djokovic/radnik-app-backend-api)
 - **[Repertorify.com](https://repertorify.com)** – songbook for guitarists with a custom chord parser, per-user transposition and playlists. 350+ songs, 120K+ Google search impressions.
   React · Node.js · Express · MongoDB · [Repo](https://github.com/arben-djokovic/repertorify-mern)
-- **[Ej&Be Real Estate](https://ej-and-be.vercel.app)** – multilingual real estate website with a property catalogue, filters and an admin panel.
-  Next.js · React · MongoDB · AWS S3 · [Repo](https://github.com/arben-djokovic/ej-and-be)
+- **[Fantazija.me](https://fantazija.me)** – website and online ordering for a real pastry shop, in three languages, with a step-by-step cake builder and an admin panel for staff.
+  Next.js · React · Tailwind CSS · MongoDB · AWS S3 · [Repo](https://github.com/arben-djokovic/fantazija-nextjs-fullstack)
 
 #### 🛠️ Tech
 
